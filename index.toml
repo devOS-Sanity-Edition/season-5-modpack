@@ -196,6 +196,11 @@ hash = "2506864b4b09b94a6cdd7162512af422a12d031cf7eb6a090a8be6a0be6fb0f7"
 metafile = true
 
 [[files]]
+file = "mods/fuck-namemc.pw.toml"
+hash = "2d388cd06473a6039120ff37b8f2e53c5780235d234b5ae02ddb5025f11b577f"
+metafile = true
+
+[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "01229cc90ed07c223690033b98bd1cd3d04929c8e059a194cc50ebca8c3ca3f4"
 metafile = true
@@ -418,11 +423,6 @@ metafile = true
 [[files]]
 file = "mods/shifty-hotbar.pw.toml"
 hash = "cb32d072543db456af8e3a666c4e1be412e50286dffc2435a5d5afc8ef20ce57"
-metafile = true
-
-[[files]]
-file = "mods/show-me-what-you-got.pw.toml"
-hash = "5e11ac2d073b0b65f0c1eba950bee36e3545644c7cc2a5b6af2cfc6347e63d51"
 metafile = true
 
 [[files]]

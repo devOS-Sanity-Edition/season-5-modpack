@@ -1,0 +1,8 @@
+name = "Fuck NameMC"
+filename = "fuck_namemc-1.0.1+1.19.jar"
+side = "server"
+
+[download]
+url = "https://github.com/LambdAurora/fuck_namemc/releases/download/v1.0.1%2B1.19/fuck_namemc-1.0.1+1.19.jar"
+hash-format = "sha1"
+hash = "b21186c5b76fa5a0081dbe2e9abaf166587bec71"
