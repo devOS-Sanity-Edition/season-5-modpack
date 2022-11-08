@@ -4,3 +4,5 @@ side = "both"
 
 [download]
 url = "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.4/refinedstorage2-platform-fabric-2.0.0-milestone.2.4.jar"
+hash-format = "sha1"
+hash = "0ff97c58014b940d89df8de139876776fe949dfd"

@@ -4,3 +4,5 @@ side = "both"
 
 [download]
 url = "https://github.com/devOS-Sanity-Edition/sync-fabric/releases/download/mc1.19.1-4.3%2Brev.ff73fa2/sync-mc1.19.1-4.3+rev.ff73fa2.jar"
+hash-format = "sha1"
+hash = "a9dc8e525218c81b9328b4887b13a343e6ae8221"

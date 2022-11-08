@@ -4,3 +4,5 @@ side = "both"
 
 [download]
 url = "https://cdn.discordapp.com/attachments/1000973473541263420/1039494667923886120/twilightforest-fabric-1.19.2-4.2.301.jar"
+hash-format = "sha1"
+hash = "fdc6eb0448dee9ff430d7589fc32d44cfd722ffe"

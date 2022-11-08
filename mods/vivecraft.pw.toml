@@ -4,3 +4,5 @@ side = "both"
 
 [download]
 url = "https://github.com/ferriarnus/VivecraftMod/releases/download/1.19.2-0.0.12/vivecraft-1.19.2-0.0.12-fabric.jar"
+hash-format = "sha1"
+hash = "a2e80d5fbab85bb678b5c3a563edf656857c1b12"

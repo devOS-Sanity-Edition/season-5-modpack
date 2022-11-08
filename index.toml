@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "de8b7c717996bbed9ac4c27c667e5de85adf3f68fe272bad32583d17b38bc4ae"
-
-[[files]]
-file = "README.md"
-hash = "5b35542b57481126587d76c3a1fa499789a70dc7e5b07294d96ee5d34113b8e0"
-
-[[files]]
 file = "mods/ad-astra-fabric.pw.toml"
 hash = "6920f6c4434367cf5b2486b3fb321fe9c383dea5432cf627d091cab3bac944dc"
 metafile = true
@@ -150,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-enchanting.pw.toml"
-hash = "198915ddcbd65896511bb8e2136023e0e191f7e1401f90f4212f1c18cb77f1af"
+hash = "bf8ae4ec11e926f693d9fc6a709ae89faa4b5dbe1cc7d610743c2fa05ec395b7"
 metafile = true
 
 [[files]]
@@ -295,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/mine11lib.pw.toml"
-hash = "6628c5e102f28032b11ee421819aac0468341f85b93122b29d2bbd7f337bc67f"
+hash = "31350d22967e3e6454daadd8b677b2099f5f21b84742edf49e6e05a911c17d44"
 metafile = true
 
 [[files]]
@@ -340,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/noexpensive.pw.toml"
-hash = "63294c24f3bb68e1f99f1c43430c1f4c7fee149f61e8655f216c9dc3cc8c84f1"
+hash = "bf602cf6eec87f976af2eefc5d8c0b2b2ea21daccfa5c872d6413d39884fe542"
 metafile = true
 
 [[files]]
@@ -375,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "d174dde0e6b400b58a1a54e31e50813bd658f212f92904a1e26644473ebd7772"
+hash = "48621e7c65ad0ca50cbf0dc4c501457b72859e5218f4c69378ee6c121ab511ee"
 metafile = true
 
 [[files]]
@@ -410,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/refinedstorage2.pw.toml"
-hash = "6c84ab3f8c43c75bc4d01eb3d986e455cd96382566b74837b2e07b462aa06b81"
+hash = "716df73cabd512b24ce75364dc7697a7665f2a558fea962728140f431564dafb"
 metafile = true
 
 [[files]]
@@ -480,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/sync-devos.pw.toml"
-hash = "55184377b16288ee89224692b121c55f05fae551516efa8dae72e6e3965e368c"
+hash = "fa016e8165325cf70b561c138f878d6e62604b27dc4f4813be7351aaafbeaf56"
 metafile = true
 
 [[files]]
@@ -520,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/twilightforest-fabric.pw.toml"
-hash = "918b15c9615037075f2cc1ad41e2dafb4b61d71a3d8edebaafb39d18d6836e4a"
+hash = "925b6cc38d04a709bb0c4231f13e850dad450bb9e4f1c8f7c37d6daefa524f0b"
 metafile = true
 
 [[files]]
@@ -530,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "addc421326b253d1e2a96a9b3a388345412733cb19567eeeb48800c07101a2c9"
+hash = "4553a7f579e4b4ac2d7269d695af26692cc0ebea3ff3b6093f2076414625e0c6"
 metafile = true
 
 [[files]]

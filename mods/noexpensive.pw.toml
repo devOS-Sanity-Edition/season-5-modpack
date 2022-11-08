@@ -4,3 +4,5 @@ side = "both"
 
 [download]
 url = "https://github.com/Enaium-FabricMC/NoExpensive/releases/download/NE-1.19-Fabric-1.4.0/NE-1.19-Fabric-1.4.0.jar"
+hash-format = "sha1"
+hash = "5c4557a1c94b015bd8ae9d42c6b368ca53bbd11d"

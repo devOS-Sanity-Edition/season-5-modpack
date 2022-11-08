@@ -4,3 +4,5 @@ side = "both"
 
 [download]
 url = "https://github.com/frqnny/dark-enchanting/releases/download/1.0.0%2B1.19.1/dark-enchanting-1.0.0+1.19.1.jar"
+hash-format = "sha1"
+hash = "fffa8d034a81b0f513c3e2f2d71cd5798c34ea7b"
