@@ -519,8 +519,9 @@ hash = "842711b0a1baa2fc6bd2ef6c1953c735f68e73c6b7a13dee723851feb183349c"
 metafile = true
 
 [[files]]
-file = "mods/twilightforest-fabric.toml"
+file = "mods/twilightforest-fabric.pw.toml"
 hash = "918b15c9615037075f2cc1ad41e2dafb4b61d71a3d8edebaafb39d18d6836e4a"
+metafile = true
 
 [[files]]
 file = "mods/untitled-duck-mod.pw.toml"
