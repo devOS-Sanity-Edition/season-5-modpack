@@ -1,0 +1,13 @@
+name = "Chex™ Mix Mod"
+filename = "chexmix-mod-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l1Ffcq3I/versions/h299Q6oW/chexmix-mod-1.19.2-1.0.0.jar"
+hash-format = "sha1"
+hash = "ce171ed2fa167cf26dff4240818aad38c8338966"
+
+[update]
+[update.modrinth]
+mod-id = "l1Ffcq3I"
+version = "h299Q6oW"

@@ -1,0 +1,13 @@
+name = "st'ructure tools"
+filename = "structure-tools-1.0.30.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uD5WhhmK/versions/1.0.30/structure-tools-1.0.30.jar"
+hash-format = "sha1"
+hash = "189c03feb71e8e30f699863e7acf7658725ee718"
+
+[update]
+[update.modrinth]
+mod-id = "uD5WhhmK"
+version = "XWxHBdjK"

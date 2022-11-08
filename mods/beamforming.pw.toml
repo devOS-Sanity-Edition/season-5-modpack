@@ -1,0 +1,13 @@
+name = "Beamforming"
+filename = "beamforming-1.0.2+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bFvO4jrE/versions/IxCSD1yb/beamforming-1.0.2%2B1.19.jar"
+hash-format = "sha1"
+hash = "abeb245ae0c7459f14b7e732001556f243b48e6c"
+
+[update]
+[update.modrinth]
+mod-id = "bFvO4jrE"
+version = "IxCSD1yb"

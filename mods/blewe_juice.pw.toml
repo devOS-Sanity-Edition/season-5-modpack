@@ -1,0 +1,13 @@
+name = "Blewe's Juice Time"
+filename = "BleweJuices.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MHYMTMZa/versions/DLosXmMX/BleweJuices.jar"
+hash-format = "sha1"
+hash = "019a950fc364d9d3689379208249c087f62e7be4"
+
+[update]
+[update.modrinth]
+mod-id = "MHYMTMZa"
+version = "DLosXmMX"

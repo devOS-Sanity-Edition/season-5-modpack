@@ -1,0 +1,13 @@
+name = "FancySporeBlossom"
+filename = "FancySporeBlossom-fabric-1.19-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jsDirASn/versions/1.0.1-Fabric-1.19/FancySporeBlossom-fabric-1.19-1.0.1.jar"
+hash-format = "sha1"
+hash = "353a79d1c4d4030d0ebe97ee7e40c9d74f110940"
+
+[update]
+[update.modrinth]
+mod-id = "jsDirASn"
+version = "qr8goR9D"

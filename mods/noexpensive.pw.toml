@@ -1,0 +1,6 @@
+name = "NoExpensive"
+filename = "NE-1.19-Fabric-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Enaium-FabricMC/NoExpensive/releases/download/NE-1.19-Fabric-1.4.0/NE-1.19-Fabric-1.4.0.jar"

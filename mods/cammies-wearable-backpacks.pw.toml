@@ -1,0 +1,13 @@
+name = "Cammie's Wearable Backpacks"
+filename = "camsbackpacks-2.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s2OAgsTb/versions/MoLUloxd/camsbackpacks-2.13.jar"
+hash-format = "sha1"
+hash = "7badc2a341822e49dd55d5c6043849191b0861cb"
+
+[update]
+[update.modrinth]
+mod-id = "s2OAgsTb"
+version = "MoLUloxd"

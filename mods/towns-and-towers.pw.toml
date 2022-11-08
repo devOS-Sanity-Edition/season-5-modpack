@@ -1,0 +1,13 @@
+name = "Towns and Towers"
+filename = "Towns-and-Towers-1.19.2-1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DjLobEOy/versions/FaQE3ISU/Towns-and-Towers-1.19.2-1.9.jar"
+hash-format = "sha1"
+hash = "3072c44725bd42c10e9c02e115faa8b8f5d57223"
+
+[update]
+[update.modrinth]
+mod-id = "DjLobEOy"
+version = "FaQE3ISU"

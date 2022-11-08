@@ -1,0 +1,13 @@
+name = "Silk Spawners"
+filename = "wraith-silkspawners-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yD9G9SN0/versions/1.1.2/wraith-silkspawners-1.1.2.jar"
+hash-format = "sha1"
+hash = "f07d80846cf74409a5d240339940a9ee9b1e07d0"
+
+[update]
+[update.modrinth]
+mod-id = "yD9G9SN0"
+version = "tsRJYmTP"

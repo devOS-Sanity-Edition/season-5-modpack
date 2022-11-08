@@ -1,0 +1,13 @@
+name = "Jar Jar Binks Mod"
+filename = "Jar-Jar-Binks-1.19.2-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zhqc8UeQ/versions/HpJEMFbj/Jar-Jar-Binks-1.19.2-1.0.3.jar"
+hash-format = "sha1"
+hash = "401bc6a4f5e89323f8aa726217ff0d1a42cc4fca"
+
+[update]
+[update.modrinth]
+mod-id = "Zhqc8UeQ"
+version = "HpJEMFbj"

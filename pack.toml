@@ -1,0 +1,16 @@
+name = "devOS: Season 5"
+author = "devOS: Sanity Edition"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "af3163a06c3327d8a7155bf857bb6c1c3050492044d99d71c8b724ebb976ba5e"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.6"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]
