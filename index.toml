@@ -476,11 +476,6 @@ hash = "fa016e8165325cf70b561c138f878d6e62604b27dc4f4813be7351aaafbeaf56"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "67e5da06dea7f1654257a59538d8f817ebfc79e9544da154088218b1a4a08e48"
-metafile = true
-
-[[files]]
 file = "mods/terrestria.pw.toml"
 hash = "2c8ae39c616332f2b4b77e4d2f75151d0dc2d0c210d0bdaa90aa6fb8552dae10"
 metafile = true
@@ -508,11 +503,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "842711b0a1baa2fc6bd2ef6c1953c735f68e73c6b7a13dee723851feb183349c"
-metafile = true
-
-[[files]]
-file = "mods/twilightforest-fabric.pw.toml"
-hash = "925b6cc38d04a709bb0c4231f13e850dad450bb9e4f1c8f7c37d6daefa524f0b"
 metafile = true
 
 [[files]]
