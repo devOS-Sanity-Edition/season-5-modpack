@@ -376,6 +376,11 @@ hash = "48621e7c65ad0ca50cbf0dc4c501457b72859e5218f4c69378ee6c121ab511ee"
 metafile = true
 
 [[files]]
+file = "mods/portinglib.pw.toml"
+hash = "5d5ec8bdba5749313a0e3347d4a9ce6498f9dc398ed915827ca6e00565b5b379"
+metafile = true
+
+[[files]]
 file = "mods/powah.pw.toml"
 hash = "2b5f97cededc5500456124e6aa9f70255309afac53a4b92b31064b4027868ee8"
 metafile = true
@@ -503,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "842711b0a1baa2fc6bd2ef6c1953c735f68e73c6b7a13dee723851feb183349c"
+metafile = true
+
+[[files]]
+file = "mods/twilightforest-fabric.pw.toml"
+hash = "925b6cc38d04a709bb0c4231f13e850dad450bb9e4f1c8f7c37d6daefa524f0b"
 metafile = true
 
 [[files]]
