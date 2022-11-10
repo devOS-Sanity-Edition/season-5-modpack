@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric-title-changer/settings.json"
+hash = "36adba3db4f602a303b558ce5d446dfc079784966cbfcfe65a7ab6c1c48e1001"
+
+[[files]]
 file = "mods/ad-astra-fabric.pw.toml"
 hash = "6920f6c4434367cf5b2486b3fb321fe9c383dea5432cf627d091cab3bac944dc"
 metafile = true
@@ -111,6 +115,11 @@ hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "8440097630bb5576edaf891db7490fe9e6a6c996670e6d25b6bd027712db6050"
+metafile = true
+
+[[files]]
 file = "mods/chex-mix-mod.pw.toml"
 hash = "7696fc926cf3e9da31d3a16e1175de6336c7f6fe85a33547aa1eabfc9b831fe7"
 metafile = true
@@ -181,6 +190,11 @@ hash = "8667ba6e606a27efc90b4c3b3407443e2de7d042db6e30d6a145a1ac3e7443c7"
 metafile = true
 
 [[files]]
+file = "mods/fabric-title-changer.pw.toml"
+hash = "aede43ee969adaadd8004bece0cf1592c353c6341def612c963bedb5af7cb766"
+metafile = true
+
+[[files]]
 file = "mods/fancysporeblossom.pw.toml"
 hash = "05f9d23124e00bd001846d0ca2584c71db74a073c6f5e34bd51cbad26a689426"
 metafile = true
@@ -222,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinitybuttons.pw.toml"
-hash = "d8fd0ef34baadacaf36c91220d7300c35e4a516eb8386e3068f12ceeff9b4147"
+hash = "676ad19b030294136ba7a79e8bc8d5e7eb2b1d9ed67c1a54a5e4f1cea0815e24"
 metafile = true
 
 [[files]]
@@ -296,13 +310,13 @@ hash = "31350d22967e3e6454daadd8b677b2099f5f21b84742edf49e6e05a911c17d44"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-hash = "4ff1e58c9c7fdce5cd5a392987c3013d02ce63ee2ed4149098389a85caac2838"
+file = "mods/mixin-conflict-helper.pw.toml"
+hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
 metafile = true
 
 [[files]]
-file = "mods/moisturization.pw.toml"
-hash = "1b77df01d8339ab8d94bfe2350d93935544c95add716dd89d78e49fdfe4d9c45"
+file = "mods/modmenu.pw.toml"
+hash = "4ff1e58c9c7fdce5cd5a392987c3013d02ce63ee2ed4149098389a85caac2838"
 metafile = true
 
 [[files]]
