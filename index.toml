@@ -176,7 +176,12 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "49d359ebcba4266303d70eb950f6e12a9e779ee16788b6b8be7520fc4cb5b8cb"
+hash = "62600ded8406025cc3367d49f22585cfd562c0380d05e4ed7dbfca879e45f6ab"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "e2a39665b41bce1594e6287cbcd5dfeabbc8d03bf5740e8f6476e227f1561daa"
 metafile = true
 
 [[files]]
@@ -461,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "6228aeda9e63e62ae57f8c0d10c89dab1263a2e5d66f1168b93a71fd48c9fcd0"
+hash = "a163b209be8e2c8aee7e840c2fa3e509b73f60eee9bdbb05d874818ee6cfdcb2"
 metafile = true
 
 [[files]]
