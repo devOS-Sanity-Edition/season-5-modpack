@@ -2,6 +2,9 @@ name = "EMI Loot"
 filename = "emi_loot-0.1.0+1.19.jar"
 side = "both"
 
+[option]
+optional = true
+
 [download]
 url = "https://cdn.modrinth.com/data/qbbO7Jns/versions/YvsiPoNW/emi_loot-0.1.0%2B1.19.jar"
 hash-format = "sha1"

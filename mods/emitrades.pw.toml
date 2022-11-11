@@ -2,6 +2,9 @@ name = "EMI Trades"
 filename = "EMITrades-fabric-1.0.2+mc1.19.2.jar"
 side = "client"
 
+[option]
+optional = true
+
 [download]
 url = "https://cdn.modrinth.com/data/j2HhbEE7/versions/YnCegFtP/EMITrades-fabric-1.0.2%2Bmc1.19.2.jar"
 hash-format = "sha1"
