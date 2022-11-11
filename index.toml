@@ -5,11 +5,6 @@ file = "config/fabric-title-changer/settings.json"
 hash = "36adba3db4f602a303b558ce5d446dfc079784966cbfcfe65a7ab6c1c48e1001"
 
 [[files]]
-file = "mods/ad-astra-fabric.pw.toml"
-hash = "6920f6c4434367cf5b2486b3fb321fe9c383dea5432cf627d091cab3bac944dc"
-metafile = true
-
-[[files]]
 file = "mods/adorn.pw.toml"
 hash = "a3b079d2a092784d2019e2443c1e47f3e08de10a0bdeab732067c5e45351a96c"
 metafile = true
