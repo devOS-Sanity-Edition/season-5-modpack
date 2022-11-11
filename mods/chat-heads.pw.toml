@@ -2,6 +2,9 @@ name = "Chat Heads"
 filename = "chat_heads-0.7.1-fabric-1.19.1.jar"
 side = "client"
 
+[option]
+optional = true
+
 [download]
 url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/zKCl1ATO/chat_heads-0.7.1-fabric-1.19.1.jar"
 hash-format = "sha1"

@@ -2,6 +2,10 @@ name = "Vivecraft"
 filename = "vivecraft-1.19.2-0.0.12-fabric.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+
 [download]
 url = "https://github.com/ferriarnus/VivecraftMod/releases/download/1.19.2-0.0.12/vivecraft-1.19.2-0.0.12-fabric.jar"
 hash-format = "sha1"

@@ -1,0 +1,13 @@
+name = "Flowering Friends"
+filename = "flowering-friends-1.0.0+mc.1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gxnAAxDY/versions/1.0.0%2Bmc.1.19/flowering-friends-1.0.0%2Bmc.1.19.jar"
+hash-format = "sha1"
+hash = "4c799d50e2b593174c34139511e5be3109778fb4"
+
+[update]
+[update.modrinth]
+mod-id = "gxnAAxDY"
+version = "5IazG74U"

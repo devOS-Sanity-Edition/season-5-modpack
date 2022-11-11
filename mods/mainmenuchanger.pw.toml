@@ -2,6 +2,9 @@ name = "MainMenuChanger"
 filename = "MainMenuChanger-1.2.0.jar"
 side = "client"
 
+[option]
+optional = true
+
 [download]
 url = "https://cdn.modrinth.com/data/yCd6z53x/versions/O5IcKa96/MainMenuChanger-1.2.0.jar"
 hash-format = "sha1"
