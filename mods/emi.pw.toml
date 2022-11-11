@@ -2,9 +2,6 @@ name = "EMI"
 filename = "emi-0.4.2+1.19.jar"
 side = "both"
 
-[option]
-optional = true
-
 [download]
 url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/cfYr580M/emi-0.4.2%2B1.19.jar"
 hash-format = "sha1"

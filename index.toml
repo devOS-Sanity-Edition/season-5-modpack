@@ -180,18 +180,38 @@ hash = "62600ded8406025cc3367d49f22585cfd562c0380d05e4ed7dbfca879e45f6ab"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "e2a39665b41bce1594e6287cbcd5dfeabbc8d03bf5740e8f6476e227f1561daa"
+file = "mods/emi-loot.pw.toml"
+hash = "bafad65f31fdd578bc7c0cd5de6f547c83f364725c63db75336b6c246be05285"
 metafile = true
 
 [[files]]
-file = "mods/excorrelation.pw.toml"
-hash = "efb070639ab54056b420e3328dc8afeb2d7bb3db928a03b30fccf8269a27f5c9"
+file = "mods/emi.pw.toml"
+hash = "0395722100397e394dfddec723017c1ea18433f371250f80dae911b4e1c8b0d9"
+metafile = true
+
+[[files]]
+file = "mods/emi_farmersdelight.pw.toml"
+hash = "286ee406d092f5763327f12f44ba10a581bb369212ad5080d6fa0152783a24d2"
+metafile = true
+
+[[files]]
+file = "mods/emicompat.pw.toml"
+hash = "da067d2511a56cb765093222bf2dac16c9e9a739d4157fa6876a0bb7dbd1b43e"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
 
 [[files]]
 file = "mods/expanded-axe-enchanting.pw.toml"
 hash = "04342ff0cf44a6fb0e4196a555859be82cb4bad125144a6e368fc15a2ccb1e93"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
 metafile = true
 
 [[files]]
@@ -222,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/fancysporeblossom.pw.toml"
 hash = "05f9d23124e00bd001846d0ca2584c71db74a073c6f5e34bd51cbad26a689426"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "59d2fbacd81698a567ee1bb98090608b8d0066f9c4a22df3218b7052e1de9c5c"
 metafile = true
 
 [[files]]
