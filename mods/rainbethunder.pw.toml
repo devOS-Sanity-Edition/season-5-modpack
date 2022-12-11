@@ -1,0 +1,13 @@
+name = "RainBeThunder"
+filename = "rainbethunder-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/tdyBZj6a/versions/1.0.1/rainbethunder-1.0.1.jar"
+hash-format = "sha1"
+hash = "12c75a6f4857b37e8cb150e99ad5faa0c17d2de5"
+
+[update]
+[update.modrinth]
+mod-id = "tdyBZj6a"
+version = "vpR4s0xK"

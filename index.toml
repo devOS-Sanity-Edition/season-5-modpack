@@ -235,6 +235,11 @@ hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
 metafile = true
 
 [[files]]
+file = "mods/creeper-multidrop.pw.toml"
+hash = "709be385794845b1514cca331cb4e5467f5914df6e005375af4ff55c25b3ef77"
+metafile = true
+
+[[files]]
 file = "mods/dark-enchanting.pw.toml"
 hash = "bf8ae4ec11e926f693d9fc6a709ae89faa4b5dbe1cc7d610743c2fa05ec395b7"
 metafile = true
@@ -572,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/quilt-loading-screen.pw.toml"
 hash = "614b07a55a51cfbb73bbc392e22db2771a900b40076b58c97ad65320074b628c"
+metafile = true
+
+[[files]]
+file = "mods/rainbethunder.pw.toml"
+hash = "81d33aec25ff9311fc547bea4d625cc78ffe48400115fa256356166dece7ec09"
 metafile = true
 
 [[files]]
