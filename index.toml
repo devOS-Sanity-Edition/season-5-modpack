@@ -23,6 +23,11 @@ hash = "d930cef1a8fac8f24ae0bd3b1f0fc07781f9a1a8c68ef1464d5ffe1b51af7f6e"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "79953d7df91b0d2605c1c897019f7ddc072c55735441a3cce93800c73bf2e0f6"
+metafile = true
+
+[[files]]
 file = "mods/amethyst-core.pw.toml"
 hash = "1caa10be4bd94abea394751c2d0a31cde2c103eab15c0e6c665dfe823ba87ecc"
 metafile = true
@@ -442,11 +447,6 @@ hash = "83e871acc9e5ada19e00c5348a30a4fa62841924dcf7aad059080d2f53291664"
 metafile = true
 
 [[files]]
-file = "mods/mystical_crops.pw.toml"
-hash = "45650897937000a4c363af55932db0c4258d2fa7bf5f7cba20a695489ac280d4"
-metafile = true
-
-[[files]]
 file = "mods/new-infinity-fix.pw.toml"
 hash = "c93492d3e750751d4a25630b2f26b74a83b548bb297ff7232c298d491eb42343"
 metafile = true
@@ -502,11 +502,6 @@ hash = "91c8f12f4b35547f32d868157c5d869f4ef7c31214f717c3ef76effc176700bc"
 metafile = true
 
 [[files]]
-file = "mods/portal-cubed.pw.toml"
-hash = "48621e7c65ad0ca50cbf0dc4c501457b72859e5218f4c69378ee6c121ab511ee"
-metafile = true
-
-[[files]]
 file = "mods/powah.pw.toml"
 hash = "ca18796a9db2d6bb948b0b58dec77b008701da2e232b7c53b6d6030b59616047"
 metafile = true
@@ -539,11 +534,6 @@ metafile = true
 [[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "1c79df1ad68ec9794e621af4b30752af1e83a124ec6b5c592d48bb6109c1e899"
-metafile = true
-
-[[files]]
-file = "mods/refinedstorage2.pw.toml"
-hash = "716df73cabd512b24ce75364dc7697a7665f2a558fea962728140f431564dafb"
 metafile = true
 
 [[files]]
