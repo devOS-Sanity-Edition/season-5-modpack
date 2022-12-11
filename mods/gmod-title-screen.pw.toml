@@ -1,17 +1,17 @@
 name = "GMod Title Screen"
-filename = "gmod-title-screen-1.0+1.19.jar"
+filename = "gmod-title-screen-1.1+1.19.jar"
 side = "client"
 
-[option]
-optional = true
-default = true
-
 [download]
-url = "https://cdn.modrinth.com/data/3Ug95SjF/versions/X8zrV3tt/gmod-title-screen-1.0%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/3Ug95SjF/versions/BBs36biV/gmod-title-screen-1.1%2B1.19.jar"
 hash-format = "sha1"
-hash = "144500f33a6e2bb550fe37f8f8fd451eb6224246"
+hash = "348762a975fc8244ff722315df6c20d0a67fe6ac"
 
 [update]
 [update.modrinth]
 mod-id = "3Ug95SjF"
-version = "X8zrV3tt"
+version = "BBs36biV"
+
+[option]
+optional = true
+default = true

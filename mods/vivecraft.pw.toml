@@ -1,5 +1,5 @@
 name = "Vivecraft"
-filename = "vivecraft-1.19.2-0.0.12-fabric.jar"
+filename = "vivecraft-1.19.2-0.0.13-fabric.jar"
 side = "both"
 
 [option]
@@ -7,6 +7,11 @@ optional = true
 default = true
 
 [download]
-url = "https://github.com/ferriarnus/VivecraftMod/releases/download/1.19.2-0.0.12/vivecraft-1.19.2-0.0.12-fabric.jar"
+url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/oG2wzMMs/vivecraft-1.19.2-0.0.13-fabric.jar"
 hash-format = "sha1"
-hash = "a2e80d5fbab85bb678b5c3a563edf656857c1b12"
+hash = "1e009c4b63ef7e3b9699047b75e889af35476bcd"
+
+[update]
+[update.modrinth]
+mod-id = "wGoQDPN5"
+version = "oG2wzMMs"

@@ -1,8 +1,0 @@
-name = "Porting Lib"
-filename = "porting_lib-2.0.6051.19.2.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/972716184283799593/1039620881326026773/porting_lib-2.0.6051.19.2.jar"
-hash-format = "sha1"
-hash = "5d75d1f29c5df510ea99c7192cdb251f9b4d5719"

@@ -1,13 +1,13 @@
 name = "Amethyst Core"
-filename = "amethyst_core-0.4.0+1.19.jar"
+filename = "amethyst_core-0.4.2+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UbOpZw7q/versions/O725Kopd/amethyst_core-0.4.0%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/UbOpZw7q/versions/Bt3K3p8R/amethyst_core-0.4.2%2B1.19.jar"
 hash-format = "sha1"
-hash = "e57306b48d3b25600545bca1548a4c1766b6cbbc"
+hash = "31e992dfbbba6a9e0a1a5e1dbcd6c8787559e7f0"
 
 [update]
 [update.modrinth]
 mod-id = "UbOpZw7q"
-version = "O725Kopd"
+version = "Bt3K3p8R"

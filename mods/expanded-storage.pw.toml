@@ -1,13 +1,13 @@
 name = "Expanded Storage"
-filename = "expandedstorage-8.0.3+1.19.2-quilt.jar"
+filename = "expandedstorage-8.1.0-beta.3+1.19.2-quilt.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/F56tBubk/versions/lcrkXi8q/expandedstorage-8.0.3%2B1.19.2-quilt.jar"
+url = "https://cdn.modrinth.com/data/F56tBubk/versions/HkaR8EA8/expandedstorage-8.1.0-beta.3%2B1.19.2-quilt.jar"
 hash-format = "sha1"
-hash = "4b8d55238b4621ef296ebc8d3737f737c5904577"
+hash = "3ae5caab7844d31dac3ca3075c3291fcf72aa57f"
 
 [update]
 [update.modrinth]
 mod-id = "F56tBubk"
-version = "lcrkXi8q"
+version = "HkaR8EA8"
