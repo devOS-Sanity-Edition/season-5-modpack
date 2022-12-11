@@ -93,8 +93,9 @@ hash = "8a20604524f45cf945ecc569c705bad494d10cb8c2a176992350be788d3a2319"
 metafile = true
 
 [[files]]
-file = "mods/bing-bing-wahoo.toml"
+file = "mods/bing-bing-wahoo.pw.toml"
 hash = "23fd8038d466fe927b2c25bfbf4471b33ce14614c1a1f87a3c0c482cab26a076"
+metafile = true
 
 [[files]]
 file = "mods/biome-makeover.pw.toml"
