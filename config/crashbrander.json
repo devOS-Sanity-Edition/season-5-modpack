@@ -1,0 +1,12 @@
+{
+	"enabled": true,
+	"type": [
+		"CRASH",
+		"LOGS"
+	],
+	"name": "devOS Season 5",
+	"version": "1.0.0",
+	"author": "devOS: Sanity Edition",
+	"website": "https://devos.one",
+    "support": "https://github.com/devOS-Sanity-Edition/season-5-modpack/issues"
+}

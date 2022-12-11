@@ -1,12 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Deftu/screencapper.toml"
+hash = "8aea917667fa5fc0ea9481340788c8de89d9ff285cee78e30fe1da8d729b3a28"
+
+[[files]]
+file = "config/Deftu/sharex.json"
+hash = "a01e270eed44f0687daea20bc99c7b16d8ef106df5bf30cf6f2a57cb7f47764e"
+
+[[files]]
+file = "config/crashbrander.json"
+hash = "2230a149d468e2a71ec47121be7f6f60eae6db94034a21830e59f1051cbbf765"
+
+[[files]]
 file = "config/exordium.json"
 hash = "8fda5415c6bbec84604e9819617d46731508f3859a2a8f377f4e6f537b93e960"
 
 [[files]]
 file = "config/fabric-title-changer/settings.json"
-hash = "36adba3db4f602a303b558ce5d446dfc079784966cbfcfe65a7ab6c1c48e1001"
+hash = "b39628f41ab986b3cdabc1f90a7d48ae78629847896010fca34f9d6cd9ab3b2e"
 
 [[files]]
 file = "config/semblance.properties"
@@ -93,8 +105,13 @@ hash = "8a20604524f45cf945ecc569c705bad494d10cb8c2a176992350be788d3a2319"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "c74021112f3eaa73a86d5b5052e138b459ba44e41bc18d258920537f0fdcffb6"
+metafile = true
+
+[[files]]
 file = "mods/bing-bing-wahoo.pw.toml"
-hash = "23fd8038d466fe927b2c25bfbf4471b33ce14614c1a1f87a3c0c482cab26a076"
+hash = "ca87d8623b1082ac1a5e996db260a36eda710255dee9cdcac4abf48f22279a42"
 metafile = true
 
 [[files]]
@@ -130,6 +147,16 @@ metafile = true
 [[files]]
 file = "mods/boat-with-everything.pw.toml"
 hash = "2cd7466c73adc2c29bb110a3b8295330df54bc5645d2896a763598d741edce7d"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "18afdfa26f10f9b2d9f6e5b54a078e8dd15f504b1ba77db7ac348f5bc065a7c1"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "6e2a7ae250c6997f6d6d23a772a267107a3d7fbd7137d13c62e7121ec06e3519"
 metafile = true
 
 [[files]]
@@ -193,6 +220,16 @@ hash = "355c8fe49be8dd372c39d033cfcb5d08b0142bdc4c03d24335d9544cee30240d"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "fadae702d97aea1cbffe7a582d0657a67b1323fcd5b5d5ba5106519e1444d56c"
+metafile = true
+
+[[files]]
+file = "mods/crashbrander.pw.toml"
+hash = "ca8d35570e4611ea8c239a9fa1e158cbf81b30159d09bed416f3b89b00cc76b1"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
 metafile = true
@@ -210,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
+metafile = true
+
+[[files]]
+file = "mods/deftulib.pw.toml"
+hash = "f6ead41099f94e739f40e2871ffb1b3a039ee4d3c1a96280fbf20780a4fd76cc"
 metafile = true
 
 [[files]]
@@ -249,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "806f799cc174bdd08584b2ec369c1b8c6509737ddde3909b4a95f90a4656b713"
+hash = "5f2b0e25c2d4e14827c331a6886f4349a0135c2d9aea7d2caf4af1a6b30b83b0"
 metafile = true
 
 [[files]]
@@ -503,6 +545,11 @@ hash = "91c8f12f4b35547f32d868157c5d869f4ef7c31214f717c3ef76effc176700bc"
 metafile = true
 
 [[files]]
+file = "mods/portal-cubed.pw.toml"
+hash = "1cfb087381e85190936c08fc6c75b1a35b7a39a05d23fbf4bfd98abb0f3a7bef"
+metafile = true
+
+[[files]]
 file = "mods/powah.pw.toml"
 hash = "ca18796a9db2d6bb948b0b58dec77b008701da2e232b7c53b6d6030b59616047"
 metafile = true
@@ -555,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/scarves.pw.toml"
 hash = "7c0d98cb46e0b6eaee6c154cad17c58f677db62e8c2b4e61a3c331fc132dae34"
+metafile = true
+
+[[files]]
+file = "mods/screencapper.pw.toml"
+hash = "1a996f4ff32616f7cdfdf52825b837bd1c24bd8bad98acfbfc87280657524725"
 metafile = true
 
 [[files]]
@@ -613,6 +665,11 @@ hash = "d0cd4b1f936b73cbe367ccc74c325688bb5aa1e87e41f571124a22c3b361c2c1"
 metafile = true
 
 [[files]]
+file = "mods/suggestion-provider-fix-fabric.pw.toml"
+hash = "73692e1df032102bb922eac9061081e6d5ad5dd33d87a29fbdc95465a890cc03"
+metafile = true
+
+[[files]]
 file = "mods/sync-devos.pw.toml"
 hash = "fa016e8165325cf70b561c138f878d6e62604b27dc4f4813be7351aaafbeaf56"
 metafile = true
@@ -645,6 +702,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
+metafile = true
+
+[[files]]
+file = "mods/twilight-forest-fabric.pw.toml"
+hash = "4f7e3457055c84e7d472ca7ff650202f6f6ea40232eaf8712e4894ce96e126f5"
 metafile = true
 
 [[files]]

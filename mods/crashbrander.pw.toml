@@ -1,0 +1,13 @@
+name = "CrashBrander"
+filename = "CrashBrander-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C9eIZ8sb/versions/7K40UCmO/CrashBrander-1.4.1.jar"
+hash-format = "sha1"
+hash = "0e6436cf825e290c5dfe3ce017241cf9a9aa27d5"
+
+[update]
+[update.modrinth]
+mod-id = "C9eIZ8sb"
+version = "7K40UCmO"
