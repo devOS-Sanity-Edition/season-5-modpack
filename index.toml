@@ -275,11 +275,6 @@ hash = "2d9e967bd92271f7ba42b1618d96b1d1355600c50180a852129d0226f634a6fd"
 metafile = true
 
 [[files]]
-file = "mods/effortless-fabric.pw.toml"
-hash = "e5f6f73be8e36f30c12a658e1e9db5b2b3b7a21b7220597a7bde7d2000aefa41"
-metafile = true
-
-[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "8ba4cbf69f653f05e17611ce39fc4331c83bc41157d8de9d245f8d5a34b7c199"
 metafile = true
