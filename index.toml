@@ -170,6 +170,11 @@ hash = "0c32295f9b91a42a0d082afc49be240ed8b0749f47ae42fcb1bd72e1dfbf66f9"
 metafile = true
 
 [[files]]
+file = "mods/campanion.pw.toml"
+hash = "e351f40305f1377a4023c09e774d040e601d513bd37e307955b2f68e986a612c"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
@@ -267,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "62600ded8406025cc3367d49f22585cfd562c0380d05e4ed7dbfca879e45f6ab"
+metafile = true
+
+[[files]]
+file = "mods/effortless-fabric.pw.toml"
+hash = "e5f6f73be8e36f30c12a658e1e9db5b2b3b7a21b7220597a7bde7d2000aefa41"
 metafile = true
 
 [[files]]
@@ -451,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/loadingscreentips.pw.toml"
-hash = "ed4f37e1da3fdca4a23f5704f76604929820a2167bb0be6daeb65298afba3cba"
+hash = "d7659b8798e667f50f8cee2a33a9b4b50e720aaeaef091c49fd7efd12985b74c"
 metafile = true
 
 [[files]]
@@ -627,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/shifty-hotbar.pw.toml"
 hash = "4c571a35a821344af16ff10b0332968ce2d12c6c9f9882798a28a7f0a6f4b9d5"
+metafile = true
+
+[[files]]
+file = "mods/show-me-what-you-got-devos.pw.toml"
+hash = "cbc75a52bbe7acaa3819979bee3cdb052ccae2e63e8e57ce06acc0f264ef71aa"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "Show Me What You Got: devOS Fork"
+filename = "ShowMeWhatYouGot-1.19.2-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/devOS-Sanity-Edition/show-me-what-you-got/releases/download/1.19.2-1.0.2-devOS/ShowMeWhatYouGot-1.19.2-1.0.2.jar"
+hash-format = "sha1"
+hash = "5f8787397fc0877d2f387a5502be1e80bf98a56d"

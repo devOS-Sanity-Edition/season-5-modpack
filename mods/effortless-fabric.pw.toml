@@ -1,0 +1,8 @@
+name = "Effortless Fabric"
+filename = "effortless-fabric-1.5.2-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/huskcasaca/effortless-fabric/releases/download/v1.5.2/effortless-fabric-1.5.2-1.19.2.jar"
+hash-format = "sha1"
+hash = "b9d150f009551735c3ad9961d7c61dc5dfd7ac1b"
