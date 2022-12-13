@@ -1,0 +1,13 @@
+name = "Rainbow Lamp"
+filename = "rainbowlamp-fabric-1.1-1.19.X.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pCWLDHSQ/versions/hj1Eh8Xj/rainbowlamp-fabric-1.1-1.19.X.jar"
+hash-format = "sha1"
+hash = "2995bfe8403e80652bbf00634d365a7710e05ab6"
+
+[update]
+[update.modrinth]
+mod-id = "pCWLDHSQ"
+version = "hj1Eh8Xj"

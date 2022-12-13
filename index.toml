@@ -225,6 +225,11 @@ hash = "2c590dec0b8c11bbd3d59ffbd5d294444ce9ebd5442fbee7d85ba641f4e8a6a6"
 metafile = true
 
 [[files]]
+file = "mods/crafting-bench.pw.toml"
+hash = "273ab0947d4738dd0f8ab9f71cba52670345cc6b2fee2cb41af64b23e6249afd"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "21118909d5abc3fa7faf45725c4599f865c3cc7b6b9136433564327835e6d55b"
 metafile = true
@@ -262,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/deftulib.pw.toml"
 hash = "f6ead41099f94e739f40e2871ffb1b3a039ee4d3c1a96280fbf20780a4fd76cc"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "4f15070fd65003a7f2e99e7b622dfca850f33826a562fdb9f47a3e90653861c6"
 metafile = true
 
 [[files]]
@@ -335,6 +345,11 @@ hash = "5031d54b22478641c4f70b444ce533e342c81d86e08df6c8072a032235a817f0"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "de8978857fa72b8367e2b3c91a4ed0066e98cfb3d14a7dd95016e91b17e3d99b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-title-changer.pw.toml"
 hash = "aede43ee969adaadd8004bece0cf1592c353c6341def612c963bedb5af7cb766"
 metafile = true
@@ -362,6 +377,11 @@ metafile = true
 [[files]]
 file = "mods/floweringfriends.pw.toml"
 hash = "5c5250ef9c49884d47721e08d385e256ae4f2233ee416f7690b0a7de8cda91b4"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "63abc798591351fddc8069cf92991ffe6e058f939e259a27d284270e835e9530"
 metafile = true
 
 [[files]]
@@ -442,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/led.pw.toml"
+hash = "c922a4dff188cb5be54bb1fc11d348ecc7ab66d7f18924038f6d2657e2ec73b6"
 metafile = true
 
 [[files]]
@@ -570,6 +595,11 @@ hash = "42a6c5ea3129bd1239d85bcaabde70d458528aa802e59fa3c2303068419ea013"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "8f8db3e41388ab86919ec46bcfb4080fd0d2e6bc353cca24614105fde6df0b5f"
 metafile = true
@@ -587,6 +617,11 @@ metafile = true
 [[files]]
 file = "mods/rainbethunder.pw.toml"
 hash = "81d33aec25ff9311fc547bea4d625cc78ffe48400115fa256356166dece7ec09"
+metafile = true
+
+[[files]]
+file = "mods/rainbow-lamp.pw.toml"
+hash = "bccb51f8ead49662f49820a2dbb04bba9b67f18e1b1dea20bcab9324364262dc"
 metafile = true
 
 [[files]]
@@ -737,6 +772,11 @@ metafile = true
 [[files]]
 file = "mods/victus.pw.toml"
 hash = "52a598f2d47de2b5b6a2d7739250fce2b9baf5d05fe132106ae7df902f91417c"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "4589dd561f1b684e0cb4828c78a94e2ca35eb4e3d9dc3e1050f4d98931e4ea09"
 metafile = true
 
 [[files]]
