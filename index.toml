@@ -345,11 +345,6 @@ hash = "5031d54b22478641c4f70b444ce533e342c81d86e08df6c8072a032235a817f0"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "de8978857fa72b8367e2b3c91a4ed0066e98cfb3d14a7dd95016e91b17e3d99b"
-metafile = true
-
-[[files]]
 file = "mods/fabric-title-changer.pw.toml"
 hash = "aede43ee969adaadd8004bece0cf1592c353c6341def612c963bedb5af7cb766"
 metafile = true
@@ -807,9 +802,4 @@ metafile = true
 [[files]]
 file = "mods/yigd.pw.toml"
 hash = "dcfc9996df859731e571721ffef8006ade14f3c2a2f26c716beca15575eb3ce6"
-metafile = true
-
-[[files]]
-file = "mods/yttr.pw.toml"
-hash = "9ccb9fa2d94a9b5e33c2968c6b2b3a1adc4e32f7a38f170c7e97302aac376f26"
 metafile = true
