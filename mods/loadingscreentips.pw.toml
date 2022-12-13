@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
+description = "Adds `useful` tips to loading screens \n\nhttps://modrinth.com/mod/loadingscreentips"
 
 [download]
 url = "https://cdn.modrinth.com/data/9iE55lp5/versions/v1.0.2/loadingscreentips-1.0.2.jar"

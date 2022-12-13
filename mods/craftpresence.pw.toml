@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
+description = "Completely customize the way others see you play Minecraft via Discord's Rich Presence API \n\nhttps://modrinth.com/mod/craftpresence"
 
 [download]
 url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/ci5X3zwU/CraftPresence-1.19.2-Release-1.9.6-universal.jar"

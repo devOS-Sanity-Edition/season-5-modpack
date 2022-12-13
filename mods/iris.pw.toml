@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
+description = "A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs \n\nhttps://modrinth.com/mod/iris"
 
 [download]
 url = "https://cdn.modrinth.com/data/YL57xq9U/versions/j0DONNcY/iris-mc1.19.2-1.4.5.jar"

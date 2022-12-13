@@ -5,6 +5,7 @@ side = "both"
 [option]
 optional = true
 default = true
+description = "A Minecraft VR mod on a loader of your choice! \n\nhttps://modrinth.com/mod/vivecraft"
 
 [download]
 url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/oG2wzMMs/vivecraft-1.19.2-0.0.13-fabric.jar"

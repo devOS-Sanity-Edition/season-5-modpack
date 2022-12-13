@@ -2,6 +2,10 @@ name = "EMI"
 filename = "emi-0.5.0+1.19.2.jar"
 side = "both"
 
+[option]
+optional = true
+description = "A featureful and accessible item and recipe viewer \n\nhttps://modrinth.com/mod/emi"
+
 [download]
 url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/p9jbOqyn/emi-0.5.0%2B1.19.2.jar"
 hash-format = "sha1"
@@ -11,6 +15,3 @@ hash = "989b2b9d02b239bbe88264f5077d1acaac789cf9"
 [update.modrinth]
 mod-id = "fRiHVvU7"
 version = "p9jbOqyn"
-
-[option]
-optional = true

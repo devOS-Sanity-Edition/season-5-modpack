@@ -2,6 +2,11 @@ name = "GMod Title Screen"
 filename = "gmod-title-screen-1.1+1.19.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "A mod that replaces Minecraft's title screen with one that highly resembles GMod's title screen style. \n\nhttps://modrinth.com/mod/gmod-title-screen"
+
 [download]
 url = "https://cdn.modrinth.com/data/3Ug95SjF/versions/BBs36biV/gmod-title-screen-1.1%2B1.19.jar"
 hash-format = "sha1"
@@ -11,7 +16,3 @@ hash = "348762a975fc8244ff722315df6c20d0a67fe6ac"
 [update.modrinth]
 mod-id = "3Ug95SjF"
 version = "BBs36biV"
-
-[option]
-optional = true
-default = true

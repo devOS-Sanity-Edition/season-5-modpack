@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+description = "Villager trading for EMI. \n\nhttps://modrinth.com/mod/emitrades"
 
 [download]
 url = "https://cdn.modrinth.com/data/j2HhbEE7/versions/YnCegFtP/EMITrades-fabric-1.0.2%2Bmc1.19.2.jar"

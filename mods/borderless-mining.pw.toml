@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
+description = "Changes Fullscreen to use a borderless window. \n\nhttps://modrinth.com/mod/borderless-mining"
 
 [download]
 url = "https://cdn.modrinth.com/data/kYq5qkSL/versions/1.1.5%2B1.19/borderless-mining-1.1.5%2B1.19.jar"

@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
+description = "Render the GUI and screens at a lower framerate to speed up what's really important: the worldrendering. \n\nhttps://modrinth.com/mod/exordium"
 
 [download]
 url = "https://cdn.modrinth.com/data/DynYZEae/versions/jh2xE4a5/exordium-fabric-1.0.2-mc1.19.2.jar"

@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+description = "This clientside mod adds player heads next to chat messages, as seen on the screenshot above. It makes telling various people in chat apart a bit easier, and it looks hella nice. \n\nhttps://modrinth.com/mod/chat-heads"
 
 [download]
 url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/zKCl1ATO/chat_heads-0.7.1-fabric-1.19.1.jar"

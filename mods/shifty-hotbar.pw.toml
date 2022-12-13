@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+description = "A utility mod that adds the hotbar shifting ability inspired by Stardew Valley. \n\nhttps://modrinth.com/mod/shifty-hotbar"
 
 [download]
 url = "https://cdn.modrinth.com/data/Vtzg2pos/versions/mc1.19-1.1/shifty-hotbar-mc1.19-1.1.jar"

@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+description = "Authenticate yourself in Minecraft and re-validate your session \n\nhttps://modrinth.com/mod/auth-me"
 
 [download]
 url = "https://cdn.modrinth.com/data/yjgIrBjZ/versions/X5k3gLRb/authme-mc1.19.2-4.2.0.jar"

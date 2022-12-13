@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+description = "A highly advanced screenshot improvement mod. \n\nhttps://modrinth.com/mod/screencapper"
 
 [download]
 url = "https://cdn.modrinth.com/data/yzNFLSqx/versions/JsovFqC3/Screencapper-1.19-1.2.1.jar"

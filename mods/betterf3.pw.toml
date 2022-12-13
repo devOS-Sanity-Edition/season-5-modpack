@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
+description = "BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. \n\nhttps://modrinth.com/mod/betterf3"
 
 [download]
 url = "https://cdn.modrinth.com/data/8shC1gFX/versions/RbNy07Bx/BetterF3-4.0.0-Fabric-1.19.2.jar"

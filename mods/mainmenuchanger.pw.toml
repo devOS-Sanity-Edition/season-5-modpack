@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+description = "Configurable mod that lets you change how the Main Menu is laid out. \n\nhttps://modrinth.com/mod/mainmenuchanger"
 
 [download]
 url = "https://cdn.modrinth.com/data/yCd6z53x/versions/O5IcKa96/MainMenuChanger-1.2.0.jar"

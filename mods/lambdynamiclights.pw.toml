@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
+description = "A dynamic lights mod for Fabric. \n\nhttps://modrinth.com/mod/lambdynamiclights"
 
 [download]
 url = "https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.2%2B1.19/lambdynamiclights-2.1.2%2B1.19.jar"

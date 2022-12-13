@@ -2,6 +2,10 @@ name = "EMICompat"
 filename = "emicompat-2.0.2.jar"
 side = "client"
 
+[option]
+optional = true
+description = "Add other mod compatibility to EMI \n\nhttps://modrinth.com/mod/emicompat"
+
 [download]
 url = "https://cdn.modrinth.com/data/cK0i8gTV/versions/3HInkaQT/emicompat-2.0.2.jar"
 hash-format = "sha1"
@@ -11,6 +15,3 @@ hash = "c2a449e5b9dd46064685070d9c685c418c7cd39e"
 [update.modrinth]
 mod-id = "cK0i8gTV"
 version = "3HInkaQT"
-
-[option]
-optional = true

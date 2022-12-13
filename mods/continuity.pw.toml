@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
+description = "A Fabric mod that allows for efficient connected textures \n\nhttps://modrinth.com/mod/continuity"
 
 [download]
 url = "https://cdn.modrinth.com/data/1IjD5062/versions/2.0.1%2B1.19/continuity-2.0.1%2B1.19.jar"

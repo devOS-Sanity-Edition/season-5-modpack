@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
+description = "Adds a highly-configurable zoom key for Quilt. The zoom is yours! \n\nhttps://modrinth.com/mod/ok-zoomer"
 
 [download]
 url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/5.0.0-beta.9%2B1.19/ok_zoomer-5.0.0-beta.9%2B1.19.jar"
