@@ -185,6 +185,11 @@ hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
+file = "mods/charcoal-plus-devos.pw.toml"
+hash = "23bdf4438f04df2103dfe690ada452c4db703f7cc0349be1054a6d92cf9b2594"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "a4fe60835929be85533a472bf489ca8588ccc58028b53abdf67ef5acd6ed87de"
 metafile = true

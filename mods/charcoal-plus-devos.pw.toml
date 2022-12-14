@@ -1,0 +1,8 @@
+name = "Charcoal+: devOS Fork"
+filename = "charcoal-plus-1.19.2-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/devOS-Sanity-Edition/charcoal-plus/releases/download/v1.1.2/charcoal-plus-1.19.2-1.1.2.jar"
+hash-format = "sha1"
+hash = "9fc69cb7847650f9211a04c592a9cc64dcfe764e"
