@@ -21,6 +21,10 @@ file = "config/fabric-title-changer/settings.json"
 hash = "b39628f41ab986b3cdabc1f90a7d48ae78629847896010fca34f9d6cd9ab3b2e"
 
 [[files]]
+file = "config/fwaystones/config.json5"
+hash = "94ee2b88151693ef6f9a1afd88970875feb65a217bb955c0927cc2eed4b885b7"
+
+[[files]]
 file = "config/semblance.properties"
 hash = "a9091cc89855caa47810d9ab1d85caaedbcbcfb8503c107e4b34c55b682810aa"
 
@@ -530,6 +534,11 @@ hash = "c93492d3e750751d4a25630b2f26b74a83b548bb297ff7232c298d491eb42343"
 metafile = true
 
 [[files]]
+file = "mods/nicer-skies.pw.toml"
+hash = "ba16395309084d10f38956b832c56a6b30988eacb1b27ff242cb0308c0f7e7fd"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
@@ -581,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "1cfb087381e85190936c08fc6c75b1a35b7a39a05d23fbf4bfd98abb0f3a7bef"
+hash = "e1b92e9c1a440ba456a6cb1d0c97dbb9d3a940d37be32f894ebc4d6ed1e513ae"
 metafile = true
 
 [[files]]
