@@ -2,6 +2,10 @@ name = "Nicer Skies"
 filename = "nicer-skies-1.0.0-1.19.2.jar"
 side = "client"
 
+[option]
+optional = true
+description = "A mod which adds nebulas and changes stars and light. \n\nhttps://modrinth.com/mod/nicer-skies"
+
 [download]
 url = "https://cdn.modrinth.com/data/gsJ6q45e/versions/ZkaEucRs/nicer-skies-1.0.0-1.19.2.jar"
 hash-format = "sha1"
