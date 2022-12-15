@@ -740,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/stopshiftinglogo.pw.toml"
-hash = "4bfa985544f430c5ae2208229a911bccf5272ceb4eb1589c0f4edd1319891ddd"
+hash = "137321d2185a2e93634543280e5f7473c8e419258d6e2122b05305ebccf9f6d2"
 metafile = true
 
 [[files]]
@@ -903,3 +903,7 @@ hash = "a9f4b9781d9ab9e7e5f9c2ea2445f1c23dd67683d5283357cd8eb0c5fc4402ab"
 [[files]]
 file = "resources/minecraft/textures/gui/title/edition.png"
 hash = "32c8a18e53d6aed178cc3fe090ff556df47d85a5c61f9f954aaaa0a671674ac4"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/minecraft.png"
+hash = "86e717aa900de9f079029422bb2f03f8a0953fd5b6060111354a7786f056059c"
