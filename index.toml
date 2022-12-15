@@ -18,7 +18,7 @@ hash = "8fda5415c6bbec84604e9819617d46731508f3859a2a8f377f4e6f537b93e960"
 
 [[files]]
 file = "config/fabric-title-changer/settings.json"
-hash = "5420fe0f84521e57fc91dbc2b6992600860215cddb5a331140215f87d0913878"
+hash = "0abf6a088432ffb30852646ddcffa3372baa40f7f82534bf8d03a8dff5a741ca"
 
 [[files]]
 file = "config/fwaystones/config.json5"
