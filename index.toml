@@ -18,7 +18,7 @@ hash = "8fda5415c6bbec84604e9819617d46731508f3859a2a8f377f4e6f537b93e960"
 
 [[files]]
 file = "config/fabric-title-changer/settings.json"
-hash = "b39628f41ab986b3cdabc1f90a7d48ae78629847896010fca34f9d6cd9ab3b2e"
+hash = "5420fe0f84521e57fc91dbc2b6992600860215cddb5a331140215f87d0913878"
 
 [[files]]
 file = "config/fwaystones/config.json5"
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/nicer-skies.pw.toml"
-hash = "ba16395309084d10f38956b832c56a6b30988eacb1b27ff242cb0308c0f7e7fd"
+hash = "270c67341990956da3d0ba5a4fb860f7e761ab3ff3beaf22b49e893e84714fdc"
 metafile = true
 
 [[files]]
@@ -696,6 +696,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/softer-pastels.pw.toml"
+hash = "143a91d2dc8e1e08b35f7e8bf329f3b0b68cfc33ea31bf7b56604118bfdddccd"
 metafile = true
 
 [[files]]
