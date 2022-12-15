@@ -1,0 +1,8 @@
+name = "StopShiftingLogo"
+filename = "stop-shifting-logo-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/maximumpower55/StopShiftingLogo/releases/download/a/stop-shifting-logo-1.0.0.jar"
+hash-format = "sha1"
+hash = "953d67ed5890a2ec55ddd205775d34d227cd16f2"

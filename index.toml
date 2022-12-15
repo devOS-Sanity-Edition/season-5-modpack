@@ -484,6 +484,11 @@ hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
 
 [[files]]
+file = "mods/load-my-resources.pw.toml"
+hash = "14839b2e574db94196d1ea3e14b546c1512a1d65502018c245a57bea241a4c17"
+metafile = true
+
+[[files]]
 file = "mods/loadingscreentips.pw.toml"
 hash = "6d562b9f915b2f31f7dc960375d17edb79f177976e1cf30aae1755ffce351014"
 metafile = true
@@ -644,6 +649,11 @@ hash = "1c79df1ad68ec9794e621af4b30752af1e83a124ec6b5c592d48bb6109c1e899"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "e60da35a35a45e76dd8fa06893347faae6bf2467866c57f46dd1b8e99577f1f8"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "ac87f538bdb789b176029443890a5ddc6fff99dac348d1523c5ccc5a7cda0caa"
 metafile = true
@@ -674,6 +684,11 @@ hash = "24e1a40797afea07afed3232d7dc46ffb1ce76a4296002604ed9c957464f2a31"
 metafile = true
 
 [[files]]
+file = "mods/semitranslucency.pw.toml"
+hash = "7588d902d3e6799a203c3d299814f2792d56fd27a6569670d85652a46c81ff9c"
+metafile = true
+
+[[files]]
 file = "mods/shifty-hotbar.pw.toml"
 hash = "9da9fbc4cfa2a6877a856c329e6b05d3b4152e31ceda8eb999f1610c93723aab"
 metafile = true
@@ -691,6 +706,11 @@ metafile = true
 [[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "819a0fa44accf06e7055c4c54b2530ac5023c8009499e48bae61fe0785e4dbfc"
 metafile = true
 
 [[files]]
@@ -716,6 +736,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/stopshiftinglogo.pw.toml"
+hash = "4bfa985544f430c5ae2208229a911bccf5272ceb4eb1589c0f4edd1319891ddd"
 metafile = true
 
 [[files]]
@@ -822,3 +847,59 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "dcfc9996df859731e571721ffef8006ade14f3c2a2f26c716beca15575eb3ce6"
 metafile = true
+
+[[files]]
+file = "resources/gmod-title-screen/textures/gui/title/background/background_0.png"
+hash = "73ecb6130170079e184903fa7b9e501b9385df6e7f5eeac704aa47ca962bb404"
+
+[[files]]
+file = "resources/gmod-title-screen/textures/gui/title/background/background_1.png"
+hash = "df0566f3a6a50668daf8770bb212311207c8da325d37ab803cfe9e72ce6ed609"
+
+[[files]]
+file = "resources/gmod-title-screen/textures/gui/title/background/background_2.png"
+hash = "111af07a0fb68c9d1e1ee2b193e277a71800d875eda7811fe9f8447e45fb0e22"
+
+[[files]]
+file = "resources/gmod-title-screen/textures/gui/title/background/background_3.png"
+hash = "007f48e79dcb35703ee9ba93cba81c2f87400d6db3322ad13c1d3c49ee20106f"
+
+[[files]]
+file = "resources/gmod-title-screen/textures/gui/title/background/background_4.png"
+hash = "80b239fc070bddab2757e6f33107eef0fd5b7cb8c6623bda4c047b2f11db60ec"
+
+[[files]]
+file = "resources/gmod-title-screen/textures/gui/title/background/background_5.png"
+hash = "419b12ccb89a13c6d69f5dc5b731ab4c6fb407df1c4c57306df7c33968940508"
+
+[[files]]
+file = "resources/gmod-title-screen/textures/gui/title/background/background_6.png"
+hash = "772197863543b6cf695a53f7f247e36dd89b6d9009ac1c7e5e7d561cf4d37008"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "53015bc9a5af5ba754849dd19834a1f2a456a1aef0addd16e501e004ebd69eea"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "d68884181fc43a3d7efbbe84c835c68abea8bcdb3d19e6961ed05b149d88d439"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "2cfde7c0f3097793d3d0bb1abec4d6093defed116be60cd6a5e98272836a1298"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "9403b8d720d1ffa69389d551d7fd1e659b226318c81b090701168fdd27fc40c5"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "3eb0d210f723ee1b2bfad3d3664a10321fa3f96c730413404643cd1339e4f38f"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "a9f4b9781d9ab9e7e5f9c2ea2445f1c23dd67683d5283357cd8eb0c5fc4402ab"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/edition.png"
+hash = "32c8a18e53d6aed178cc3fe090ff556df47d85a5c61f9f954aaaa0a671674ac4"
