@@ -2,10 +2,10 @@ name = "Load My Resources"
 filename = "loadmyresources_fabric_1.0.4_MC_1.19-1.19.2.jar"
 side = "client"
 
-[option]
-optional = true
-default = true
-description = "Loads resources on game start, like a resource pack, but enabled by default. \n\nUsed to load Panorama for Vanilla Menu and GMod Title Screen backgrounds\n\nhttps://modrinth.com/mod/load-my-resources"
+# [option]
+# optional = true
+# default = true
+# description = "Loads resources on game start, like a resource pack, but enabled by default. \n\nUsed to load Panorama for Vanilla Menu and GMod Title Screen backgrounds\n\nhttps://modrinth.com/mod/load-my-resources"
 
 [download]
 url = "https://cdn.modrinth.com/data/TqCKvqjC/versions/ErYeBTin/loadmyresources_fabric_1.0.4_MC_1.19-1.19.2.jar"

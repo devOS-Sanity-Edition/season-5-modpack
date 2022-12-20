@@ -1,0 +1,13 @@
+name = "Raised"
+filename = "raised-fabric-22w18a-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/Fabric-22w18a-1.1.0/raised-fabric-22w18a-1.1.0.jar"
+hash-format = "sha1"
+hash = "53186a9e3fd0bb8153c55c6fc8b3b926b1185402"
+
+[update]
+[update.modrinth]
+mod-id = "nCQRBEiR"
+version = "P3KFE42x"

@@ -1,8 +1,8 @@
 name = "Twilight Forest"
-filename = "twilightforest-fabric-1.19.2-4.2.310.jar"
+filename = "twilightforest-fabric-1.19.2-4.2.333.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/972716184283799593/1051581451725979648/twilightforest-fabric-1.19.2-4.2.310.jar"
+url = "https://cdn.discordapp.com/attachments/1000973473541263420/1054272112631750686/twilightforest-fabric-1.19.2-4.2.333.jar"
 hash-format = "sha1"
-hash = "82c2828a81155fd1d8a79abb1764ed54394beb0c"
+hash = "8c0410eb3aab2be0a69f855e57b60a8b3d6199bf"

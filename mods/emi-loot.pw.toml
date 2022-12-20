@@ -2,10 +2,6 @@ name = "EMI Loot"
 filename = "emi_loot-0.5.0+1.19.jar"
 side = "both"
 
-[option]
-optional = true
-description = "A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer. \n\nhttps://modrinth.com/mod/emi-loot"
-
 [download]
 url = "https://cdn.modrinth.com/data/qbbO7Jns/versions/OeVpkByV/emi_loot-0.5.0%2B1.19.jar"
 hash-format = "sha1"
