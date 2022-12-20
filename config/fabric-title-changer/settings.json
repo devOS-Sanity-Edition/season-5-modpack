@@ -14,7 +14,7 @@
     },
     "overrideMinecraftTitle": {
       "comment": "Set to change the phrase \"Minecraft\" in the title.",
-      "value": "devOS Season 5 - Release Pack v1.1.0 - Week 1 Update - Quilt 0.17.8"
+      "value": "devOS Season 5 - Release Pack v1.1.1 - Week 1.1 Update - Quilt 0.17.8"
     },
     "overrideFullTitle": {
       "comment": "Set to ignore other settings and define a full pre-defined name."

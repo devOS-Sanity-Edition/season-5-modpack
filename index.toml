@@ -14,7 +14,7 @@ hash = "a786c45bb06e6289b02d04d7901cce6665f6fd836505bbb2bd1d708091432929"
 
 [[files]]
 file = "config/crashbrander.json"
-hash = "cf1ced9c4c6aabec1fd8d160148d85ddc43452ab3e7ac8348820892aad940227"
+hash = "856fd481c3d994010183ee9cc62be4cc42cd7c8893d1a3f3fb51db0a7d71d735"
 
 [[files]]
 file = "config/exordium.json"
@@ -22,7 +22,7 @@ hash = "8fda5415c6bbec84604e9819617d46731508f3859a2a8f377f4e6f537b93e960"
 
 [[files]]
 file = "config/fabric-title-changer/settings.json"
-hash = "ee5c9a25c721066965bb25a7bb46a3e11e5647d8e2b261bfd589efd55d72087b"
+hash = "98b5e43e1d0323ec976effb4933786db5bc819f09778f2afb062095fe8e655f4"
 
 [[files]]
 file = "config/fwaystones/config.json5"
@@ -245,11 +245,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "2c590dec0b8c11bbd3d59ffbd5d294444ce9ebd5442fbee7d85ba641f4e8a6a6"
-metafile = true
-
-[[files]]
-file = "mods/cosmetic-armor.pw.toml"
-hash = "024e9ce1c59032baaf74867f7ceb8ec03e1de56bfa9ff8a8a14e4e00a91b3401"
 metafile = true
 
 [[files]]
