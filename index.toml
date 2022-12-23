@@ -14,7 +14,7 @@ hash = "a786c45bb06e6289b02d04d7901cce6665f6fd836505bbb2bd1d708091432929"
 
 [[files]]
 file = "config/crashbrander.json"
-hash = "856fd481c3d994010183ee9cc62be4cc42cd7c8893d1a3f3fb51db0a7d71d735"
+hash = "174ee5bf85b8edc67d9ab2cf2c79670b59de000a3157011bd62c0e9f09b1aa3a"
 
 [[files]]
 file = "config/exordium.json"
@@ -22,7 +22,7 @@ hash = "8fda5415c6bbec84604e9819617d46731508f3859a2a8f377f4e6f537b93e960"
 
 [[files]]
 file = "config/fabric-title-changer/settings.json"
-hash = "98b5e43e1d0323ec976effb4933786db5bc819f09778f2afb062095fe8e655f4"
+hash = "5ae019502d4d1135b7b631101fd468fba173e69dc851314930b222aadab6318c"
 
 [[files]]
 file = "config/fwaystones/config.json5"
@@ -30,7 +30,7 @@ hash = "94ee2b88151693ef6f9a1afd88970875feb65a217bb955c0927cc2eed4b885b7"
 
 [[files]]
 file = "config/semblance.properties"
-hash = "a9091cc89855caa47810d9ab1d85caaedbcbcfb8503c107e4b34c55b682810aa"
+hash = "6ba731a675f12c5e5757dc50b96a4de466f06f39a8b1a134a24376b8dd2aa7ec"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -213,6 +213,11 @@ hash = "a4fe60835929be85533a472bf489ca8588ccc58028b53abdf67ef5acd6ed87de"
 metafile = true
 
 [[files]]
+file = "mods/chat-signing-hider.pw.toml"
+hash = "1fa0d0ee96eae4886f1f4c1a30e4a45bd479eb49dce8b06437e7ea15d1f5d4e5"
+metafile = true
+
+[[files]]
 file = "mods/chex-mix-mod.pw.toml"
 hash = "7696fc926cf3e9da31d3a16e1175de6336c7f6fe85a33547aa1eabfc9b831fe7"
 metafile = true
@@ -264,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "fe3812fe8fc7383f586b9d25120eebdcc01711e6d18a0c8c4c0011e8137cafbf"
+hash = "7178f3487f942ff8a6213101955e72bb3b3da1977645a9d51c6e58505fc55a5b"
 metafile = true
 
 [[files]]
@@ -529,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/limits-grapple.pw.toml"
-hash = "c91582e9001e067b958f6d652ebf8baba922fad5f4565f9aced99b48870485e7"
+hash = "d3e7af0e25bda336bf9991e8a4372b75212dab4fc74eaaebb33f04a5347ac17f"
 metafile = true
 
 [[files]]
@@ -800,6 +805,11 @@ metafile = true
 [[files]]
 file = "mods/somemusicdiscs.pw.toml"
 hash = "d19a7f07d18d8147f2cef4bd7e6a99eeda036411096594144fbca36fe8869175"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "b34a08eef635554de5127a3c14164452836cf7a3fe726949844060d113addf5a"
 metafile = true
 
 [[files]]
