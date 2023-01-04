@@ -1,12 +1,12 @@
 name = "devOS Season 5"
 author = "devOS: Sanity Edition"
-version = "1.2.0 - Week 1.2 Update"
+version = "1.3.0 - 1st 2023 Update"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c37289d78c749bb820042a348aa47a0c8e87f2b3ad449889b421da0eff42192a"
+hash = "03171ef3dc1d1c7a06ebca3d3f855dba519d11c19ec5485d74b8d28f4b39b94e"
 
 [versions]
 minecraft = "1.19.2"

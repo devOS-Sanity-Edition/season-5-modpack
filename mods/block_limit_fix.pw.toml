@@ -1,13 +1,13 @@
 name = "Block Limit Fix"
-filename = "block_limit_fix-1.0.0-fabric.jar"
+filename = "block_limit_fix-1.0.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oJtNN7Tj/versions/jmtrYO8z/block_limit_fix-1.0.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/oJtNN7Tj/versions/isfD6FIl/block_limit_fix-1.0.2-fabric.jar"
 hash-format = "sha1"
-hash = "2de4eb982ead1929052202b313a5bdb3c90ffe85"
+hash = "a15f52027d4c903384d2a7a4cf8f7b92fd74a9bd"
 
 [update]
 [update.modrinth]
 mod-id = "oJtNN7Tj"
-version = "jmtrYO8z"
+version = "isfD6FIl"
