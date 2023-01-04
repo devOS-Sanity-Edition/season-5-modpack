@@ -1,18 +1,17 @@
 name = "Nicer Skies"
-filename = "nicer-skies-1.2.0+1.19.2.jar"
+filename = "nicer-skies-1.0.0-1.19.2.jar"
 side = "client"
-
-[download]
-url = "https://cdn.modrinth.com/data/gsJ6q45e/versions/lXB1YslW/nicer-skies-1.2.0%2B1.19.2.jar"
-hash-format = "sha1"
-hash = "348057c78c747247c64fadebb7024e8692cd5a2d"
-
-[update]
-[update.modrinth]
-mod-id = "gsJ6q45e"
-version = "lXB1YslW"
 
 [option]
 optional = true
 description = "A mod which adds nebulas and changes stars and light. \n\nhttps://modrinth.com/mod/nicer-skies"
-default = true
+
+[download]
+url = "https://cdn.modrinth.com/data/gsJ6q45e/versions/ZkaEucRs/nicer-skies-1.0.0-1.19.2.jar"
+hash-format = "sha1"
+hash = "8c28d8cc1d1dfd79cee3bd9ece3013b922b28f02"
+
+[update]
+[update.modrinth]
+mod-id = "gsJ6q45e"
+version = "ZkaEucRs"

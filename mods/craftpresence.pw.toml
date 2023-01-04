@@ -1,18 +1,18 @@
 name = "CraftPresence"
-filename = "CraftPresence-2.0.0-alpha.2+1.19.2-universal.jar"
+filename = "CraftPresence-1.19.2-Release-1.9.6-universal.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Completely customize the way others see you play Minecraft via Discord's Rich Presence API \n\nhttps://modrinth.com/mod/craftpresence"
+
 [download]
-url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/XK0y3RZl/CraftPresence-2.0.0-alpha.2%2B1.19.2-universal.jar"
+url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/ci5X3zwU/CraftPresence-1.19.2-Release-1.9.6-universal.jar"
 hash-format = "sha1"
-hash = "370f7f98497138495e8eb19cd154607de8799083"
+hash = "55e210aa4263438ae63513c63f2a87944f36c05c"
 
 [update]
 [update.modrinth]
 mod-id = "DFqQfIBR"
-version = "XK0y3RZl"
-
-[option]
-optional = true
-description = "Completely customize the way others see you play Minecraft via Discord's Rich Presence API \n\nhttps://modrinth.com/mod/craftpresence"
-default = true
+version = "ci5X3zwU"
